@@ -1,0 +1,40 @@
+h1{text-align: center; color: crimson;}
+h {
+    text-align: center;
+    font-weight: 100;
+    font-size: larger;
+
+}
+
+h1,
+h2,
+h3 {
+    font-size: 30px;
+}
+
+
+
+div {
+    width: 500px;
+    background-color: aquamarine;
+    border: 1px solid red;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
+
+div img {
+    width: 200px;
+    border-radius: 20px;
+    display: block;
+
+    margin: 0 auto;
+    background-image:  ;
+
+}
+div img:hover{
+    transform: scale(1.2);
+}
